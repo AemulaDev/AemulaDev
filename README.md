@@ -1,6 +1,6 @@
 Hi, this is @AemulaDev! We are currently working to create the Aemula webapp at aemu.la. 
 We are always looking for help. 
-If you have experience in NLP and ML in Python or Java and would like to learn more, please email dt@aemu.la.
+If you have experience in NLP and ML in Python or Node.js and would like to learn more, please email dt@aemu.la.
 Thanks!
 
 <!---
